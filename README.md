@@ -1,2 +1,3 @@
 # Mi primer README
-Mi primer repositorio en Github para el curso 
+Mi primer repositorio en Github para el curso
+Git.
